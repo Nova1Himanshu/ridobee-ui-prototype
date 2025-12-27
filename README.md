@@ -1,29 +1,25 @@
-# RidoBee – UI Prototype & Product Validation
+# RidoBee – Product Validation & UX
 
-RidoBee is an early-stage ride-hailing SaaS platform focused on rural and semi-urban India.
+RidoBee is an early-stage ride-hailing concept focused on rural and semi-urban India.
 
-This repository does NOT contain production code.
-It exists to:
-- Document product ideas
-- Share UI/UX flows
-- Collect developer feedback
-- Prepare for a future coded rebuild (React / Flutter)
+This repository is intentionally **code-free**.
 
-## Current Stage
-- Prototype built on Lovable (no-code)
-- Real users & drivers being tested
-- Focus on simplicity, low confusion, and real-world usability
+## Purpose
+- Validate real-world transportation problems
+- Share and review UI/UX flows
+- Document learnings from drivers and passengers
+- Avoid premature engineering decisions
 
-## Goals
-- Validate core ride booking flow
-- Identify rural user pain points
-- Remove unnecessary features
-- Design a scalable but simple UI
+## What this repo contains
+- User flow documentation
+- Screenshots / mockups
+- Feedback notes
+- Product thinking
 
-## Tech (Planned)
-- Frontend: React / Flutter
-- Backend: Firebase
-- Payments: UPI (Phase 2)
+## What this repo does NOT contain
+- Production code
+- Backend logic
+- Payments or integrations
+- Final architecture decisions
 
-## Status
-Prototype & validation phase
+The goal is to first build clarity, not complexity.
